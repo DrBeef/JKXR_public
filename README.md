@@ -1,4 +1,4 @@
-![JKXR Banner](https://github.com/DrBeef/JKXR/blob/main/assets/JKXRGithub.jpg)
+![JKXR Banner](https://github.com/DrBeef/JKXR_public/blob/main/assets/JKXRGithub.jpg)
 ===
 
 # JK XR
@@ -23,7 +23,7 @@ https://github.com/the-expanse/SideQuest/releases
 The public release of JK XR currently supports the game Jedi Outcast; access to the Jedi Academy early-access build can be found on the Team Beef patreon (link below). However there are lots of mods and access to the free demo level available through the accomapnying JK XR Companion App, which is also installed alongside JK XR on SideQuest.
 
 ## Team Beef Patreon
-[![Team Beef Patreon](https://github.com/DrBeef/JKXR/blob/main/assets/PatreonBanner.jpg)](https://www.patreon.com/teambeef)
+[![Team Beef Patreon](https://github.com/DrBeef/JKXR_public/blob/main/assets/PatreonBanner.jpg)](https://www.patreon.com/teambeef)
 
 The Team Beef Patreon where you can find all the in-development early-access builds for JK XR with Jedi Academy support, as well as other active projects can be found.
 
@@ -105,7 +105,7 @@ You can find tutorial videos on how to use the special VR features in the in-gam
 
 This control scheme on how to play can also be found in the Controls -> JKXR HELP in the game.
 
-![Control Scheme](https://github.com/DrBeef/JKXR/blob/main/z_vr_assets_base/gfx/menus/control_scheme.jpg)
+![Control Scheme](https://github.com/DrBeef/JKXR_public/blob/main/z_vr_assets_base/gfx/menus/control_scheme.jpg)
 
 
 ## Building from Source
